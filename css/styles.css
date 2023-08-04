@@ -135,8 +135,8 @@ p {
 
 .carousel-control-next,
 .carousel-control-prev {
-  width: 5vw;
-  height: 5vw;
+    width: 5vw;
+    height: 5vw;
 }
 
 /* Pricing Section */
